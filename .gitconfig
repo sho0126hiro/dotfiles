@@ -1,0 +1,11 @@
+[include]
+	path = ~/.gitconfig_shared
+
+[alias]
+    st = status
+    co = checkout
+    cmm = commit -m
+    poh = push origin HEAD
+[user]
+	email = sho0126hiro@gmail.com
+	name = Sho Hirose
