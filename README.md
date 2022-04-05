@@ -1,4 +1,6 @@
-# install
+# dotfiles
+
+### install
 
 ```shell
 make install
