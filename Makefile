@@ -1,4 +1,3 @@
 
 install:
 	.bin/install.sh
-

@@ -3,6 +3,7 @@
 
 [alias]
     st = status
+	br = branch
     co = checkout
     cmm = commit -m
     poh = push origin HEAD
