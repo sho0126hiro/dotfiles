@@ -1,5 +1,5 @@
 [include]
-	path = ~/.gitconfig_shared
+	path = ~/.gitconfig_device
 
 [alias]
     st = status
